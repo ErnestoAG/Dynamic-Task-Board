@@ -12,7 +12,7 @@ Dynamic Task Board JavaScript code completed according to the following criteria
 * Users can sort cards within a lane or delete them by clicking on the "DELETE" button.
 * Upon reopening the page, all changes are visible and persist across multiple sessions.
    
- Here is the link to the web page: 
+ Here is the link to the web page: https://ernestoag.github.io/Dynamic-Task-Board/
  
 ## Installation
 
